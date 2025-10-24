@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber & Reformatter",
+  "description": "Record audio, get an AI-cleaned transcription, and instantly reformat it into common formats like emails, memos, or blog posts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
